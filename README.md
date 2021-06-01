@@ -1,8 +1,6 @@
-# link-over-copy-paste
+# An attempt to turn copy and pasting into linking
 
-An attempt to turn copy and pasting into linking.
-
-When you copy `⌘+C` and paste `⌘+V` you duplicate content and the receiving app cannot lead you to the original context.
+When you copy `⌘+C` and paste `⌘+V` you loose the ability to bring you back to the source. Content is simply duplicated. **What if you could turn these quick copy-and-paste operations into deep linking operations?**
 
 I propose an extension: When you copy, a long-lived process will capture the context, including app, open file, selection, and sub-app location. This context is then injected into the clipboard, alongside the copied content. What this means is that compatible applications can now link to the original context instead of just copying, by reading the link in the clipboard. Non-compatible applications still have access to the copied content.
 
