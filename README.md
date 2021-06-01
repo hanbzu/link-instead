@@ -17,3 +17,5 @@ Ideally, this would be an extension compatible with the main desktop OSs: Linux,
 I just don't have the experience and attention span to develop this on my own.
 
 **If you have some clues on how to build this and would like to join me in creating this as an Open Source tool, please [tell me](mailto:hibai.unzueta@hey.com).**
+
+## Work in progress
