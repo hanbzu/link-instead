@@ -1,4 +1,6 @@
-# An attempt to turn copy and pasting into linking
+# ~~copy and paste~~ link instead!
+
+Turning copy and paste into linking.
 
 When you copy `⌘+C` and paste `⌘+V` you loose the ability to bring you back to the source. Content is simply duplicated. **What if you could turn these quick copy-and-paste operations into deep linking operations?**
 
